@@ -15,11 +15,13 @@ Vamos construir a Apple Wallet usando React Native, expo, React Native Reanimate
 
 Desenvolveremos a interface pay wallet do zero, implementaremos gestos de deslizar e adicionaremos animações no aplicativo usando Reanimated. Esta tem animações de Reanimated:
 
-
 <h2>Desafio I</h2>
 <p align="center">
-    <a href="https://imgur.com/ZEutfqp"><img src="https://i.imgur.com/ZEutfqp.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/K7iZhA4"><img src="https://i.imgur.com/K7iZhA4.png" title="source: imgur.com" /></a>
     <br />
+    <a href="https://imgur.com/LHxmEuH"><img src="https://i.imgur.com/LHxmEuH.png" title="source: imgur.com" /></a>
+    <br />
+    <a href="https://imgur.com/Wqryb6X"><img src="https://i.imgur.com/Wqryb6X.png" title="source: imgur.com" /></a>
 </p>
 
 ## Executar o game
